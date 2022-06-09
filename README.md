@@ -10,4 +10,6 @@ Containers are used to package and run an application, along with its dependenci
  - [Why use Containers](https://www.tutorialworks.com/why-use-containers/)
  - [vsupalov](https://vsupalov.com/)
 
-
+> [Chmod](https://www.geeksforgeeks.org/chmod-command-linux/)
+> In Unix-like operating systems, the [chmod](https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/) command is used to change the access mode of a file.
+The name is an abbreviation of change mode.
